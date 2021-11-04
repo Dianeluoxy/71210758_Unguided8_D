@@ -1,0 +1,10 @@
+Dari 7 buah gelas kosong yang akan diisi air, 
+yang akan terisi paling pertama adalah gelas nomor 4
+
+Penjelasan : 
+Pada jalur menuju gelas 1, terdapat jalur yang tertutup tepatnya pada kotak. 
+Pada jalur 2, 3, 5, ujung pipa tertutup sehingga air tidak bisa mengalir ke gelas
+Pada jalur 6, terdapat pembatas yang menghambat air pada jalur di tepi kotak
+Pada jalur 7, jalur air juga terputus karena terdapat saluran yang tertutup
+
+Oleh karena itu, satu-satunya gelas yang mungkin terisi adalah gelas 4. 

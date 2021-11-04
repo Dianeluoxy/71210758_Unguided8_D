@@ -1,0 +1,26 @@
+Pseudocode untuk melakukan pencarian nilai faktorial dalam matematika :
+
+Misal, variabel yang akan difaktorkan : X
+Analisis : 
+0! = 1
+1! = 1
+2! = 2.1
+3! = 3.2.1
+X! = X.(X-1).(X-2)......2.1
+
+PSEUDOCODE : 
+
+Instalasi variabel X
+IF (X<0) THEN perhitungan tidak dilakukan
+ELSE IF (X <= 1) THEN hasil sama dengan 1
+ELSE { 
+	X
+	Y = X
+	WHILE X>1 do 
+		X = X-1
+		Y = Y*X
+	WHILE END}
+END
+	
+ 
+

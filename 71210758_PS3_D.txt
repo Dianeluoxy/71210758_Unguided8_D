@@ -10,7 +10,7 @@ X! = X.(X-1).(X-2)......2.1
 
 PSEUDOCODE : 
 
-Instalasi variabel X
+Inisialisasi variabel X
 IF (X<0) THEN perhitungan tidak dilakukan
 ELSE IF (X <= 1) THEN hasil sama dengan 1
 ELSE { 
